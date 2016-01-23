@@ -1,4 +1,4 @@
-(defproject learn_clojure "0.1.0-SNAPSHOT"
+(defproject clojure_koans "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
