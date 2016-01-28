@@ -1,10 +1,6 @@
-# learn_clojure
+# Clojure_Koans
+This repository contains solutions to some koans that can be found at [4Clojure](http://www.4clojure.com)
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
 
 ## License
 
